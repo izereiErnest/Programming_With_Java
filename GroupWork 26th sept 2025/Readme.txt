@@ -9,6 +9,7 @@ Question: Immigration/Passport Application System
 Members:
 
 Erneste IZERE NEZA(222001299)
-MUSEMAKWELI Muamed(223004968)
+MUSEMAKWELI Muhamed(223004968)
 IKIREZI Denyse(223015956)
+
 
